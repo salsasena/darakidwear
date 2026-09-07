@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#D9D2C7"/>
+      <circle cx="70" cy="70" r="24" fill="#FFF9EE" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#FFF9EE" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Cloud Oversized Hoodie</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#D9D2C7" d="M155 105 Q220 60 285 105 L315 165 L285 185 L265 145 L265 285 L175 285 L175 145 L155 185 L125 165 Z"/>
+          <path fill="#C9C1B5" d="M190 82 Q220 55 250 82 L242 135 Q220 155 198 135 Z"/>
+          <path fill="none" d="M212 112 V160 M228 112 V160"/>
+          <path fill="#FFF4C9" d="M198 210 Q220 195 242 210 L242 235 Q220 250 198 235 Z"/>
+        </g>
+    </svg>

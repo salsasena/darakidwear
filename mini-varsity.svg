@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#7B6B5D"/>
+      <circle cx="70" cy="70" r="24" fill="#F7E7B9" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#F7E7B9" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Mini Varsity Jacket</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#7B6B5D" d="M125 95 L175 70 L265 70 L315 95 L295 230 L255 210 L255 285 L185 285 L185 210 L145 230 Z"/>
+          <path fill="#FFF7E7" d="M215 72 L225 72 L225 275 L215 275 Z"/>
+          <path fill="#F7D978" d="M235 130 Q250 110 265 130 Q250 150 235 130 Z"/>
+          <path fill="#F7D978" d="M190 150 H210 M235 150 H255"/>
+        </g>
+    </svg>

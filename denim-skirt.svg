@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#8FB4D8"/>
+      <circle cx="70" cy="70" r="24" fill="#FFF7E6" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#FFF7E6" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Daily Denim Set</text>
+      
+        <g stroke="#4D5C70" stroke-width="4" stroke-linejoin="round">
+          <path fill="#8FB4D8" d="M145 80 L190 65 L220 100 L250 65 L295 80 L275 190 L245 180 L245 275 L195 275 L195 180 L165 190 Z"/>
+          <path fill="#4F79A5" d="M175 165 L265 165 L280 275 L160 275 Z"/>
+          <path fill="#FFF4D0" d="M195 65 L220 100 L245 65 L238 150 L202 150 Z"/>
+          <circle cx="220" cy="125" r="5" fill="#4D5C70"/>
+        </g>
+    </svg>

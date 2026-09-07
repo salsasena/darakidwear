@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Dara Kids Wear — Korean-inspired aesthetic kids fashion in soft butter tones.">
+<title>DARA KIDS WEAR — Little Style, Big Dreams</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="announcement">FREE SHIPPING • MIN. ORDER Rp250.000 • NEW DROP EVERY FRIDAY ✦</div>
+<header class="header">
+  <a class="brand" href="#"><span class="brand-mark">D</span><span><b>DARA</b><small>KIDS WEAR</small></span></a>
+  <nav>
+    <a href="#shop">Shop</a><a href="#new">New In</a><a href="#about">About</a><a href="#faq">FAQ</a>
+  </nav>
+  <div class="head-actions">
+    <button class="icon-btn" id="searchToggle" aria-label="Search">⌕</button>
+    <button class="icon-btn" id="cartBtn" aria-label="Cart">🛍 <span id="cartCount">0</span></button>
+  </div>
+</header>
+
+<div class="searchbar" id="searchbar">
+  <input id="searchInput" type="search" placeholder="Cari cardigan, dress, hoodie...">
+  <button id="clearSearch">×</button>
+</div>
+
+<main>
+<section class="hero">
+  <div class="hero-copy">
+    <span class="eyebrow">KOREAN-INSPIRED • EVERYDAY CUTE</span>
+    <h1>Little style,<br><em>big dreams.</em></h1>
+    <p>Outfit kecil yang nyaman, manis, dan kekinian untuk hari-hari penuh cerita.</p>
+    <div class="hero-actions"><a class="btn primary" href="#shop">Shop Collection →</a><a class="text-link" href="#about">Our little story ↗</a></div>
+    <div class="hero-note">♡ comfy fabrics<br>♡ soft colors<br>♡ playful details</div>
+  </div>
+  <div class="hero-art"><img src="assets/hero.svg" alt="Ilustrasi DARA Kids Wear"></div>
+</section>
+
+<section class="ticker"><span>DAILY CUTE CLUB</span><i>✦</i><span>MADE FOR LITTLE MOMENTS</span><i>✦</i><span>SEOUL-INSPIRED MOOD</span><i>✦</i><span>DAILY CUTE CLUB</span></section>
+
+<section class="section" id="new">
+  <div class="section-head"><div><span class="eyebrow">JUST DROPPED</span><h2>New & Lovely</h2></div><a href="#shop" class="text-link">View all →</a></div>
+  <div class="feature-grid">
+    <article class="feature-card"><div class="feature-img"><img src="assets/cream-set.svg" alt="Creamy Knit Set"></div><div><span class="tag">NEW</span><h3>Creamy Knit Set</h3><p>Soft neutral • 2–8 yrs</p></div></article>
+    <article class="feature-card"><div class="feature-img"><img src="assets/bloom-set.svg" alt="Bloom Weekend Set"></div><div><span class="tag">LIMITED</span><h3>Bloom Weekend Set</h3><p>Pastel pink • 3–10 yrs</p></div></article>
+    <article class="feature-card"><div class="feature-img"><img src="assets/soft-polo.svg" alt="Soft Polo Tee"></div><div><span class="tag">RESTOCK</span><h3>Soft Polo Tee</h3><p>Butter yellow • 2–10 yrs</p></div></article>
+  </div>
+</section>
+
+<section class="section shop-section" id="shop">
+  <div class="section-head"><div><span class="eyebrow">SHOP THE EDIT</span><h2>Little wardrobe, big mood ♡</h2></div></div>
+  <div class="filters">
+    <button class="filter active" data-filter="all">All</button>
+    <button class="filter" data-filter="girls">Girls</button>
+    <button class="filter" data-filter="boys">Boys</button>
+    <button class="filter" data-filter="unisex">Unisex</button>
+    <button class="filter" data-filter="set">Sets</button>
+  </div>
+  <div class="product-grid" id="productGrid"></div>
+</section>
+
+<section class="story" id="about">
+  <div class="story-art"><img src="assets/hangers.jpg" alt="Ilustrasi rak pakaian"></div>
+  <div class="story-copy"><span class="eyebrow">OUR LITTLE STORY</span><h2>Made for comfy days & cute memories.</h2><p>Dara Kids Wear lahir dari ide sederhana: anak-anak tetap bisa tampil modern tanpa kehilangan rasa nyaman. Kami suka siluet Korea yang clean, warna lembut, dan detail kecil yang bikin outfit terasa spesial.</p><div class="stats"><div><b>02–10</b><small>years</small></div><div><b>08+</b><small>styles</small></div><div><b>24h</b><small>fast reply</small></div></div></div>
+</section>
+
+<section class="perks">
+  <div><span>🚚</span><div><b>Fast Shipping</b><small>Same-day process</small></div></div>
+  <div><span>🧵</span><div><b>Comfy First</b><small>Soft & kid-friendly</small></div></div>
+  <div><span>↺</span><div><b>Easy Exchange</b><small>7 days policy</small></div></div>
+  <div><span>💬</span><div><b>Friendly CS</b><small>Ready to help</small></div></div>
+</section>
+
+<section class="faq section" id="faq">
+  <div class="section-head"><div><span class="eyebrow">NEED TO KNOW</span><h2>Frequently asked</h2></div></div>
+  <details><summary>Bagaimana cara order?</summary><p>Pilih produk, klik “Order Sekarang”, tentukan ukuran dan jumlah, lalu lanjutkan ke WhatsApp. Pesan order akan otomatis dibuat.</p></details>
+  <details><summary>Apakah ukuran bisa ditukar?</summary><p>Bisa selama stok tersedia dan pengajuan dilakukan maksimal 7 hari setelah paket diterima.</p></details>
+  <details><summary>Apakah fotonya bebas digunakan?</summary><p>Produk di website ini memakai ilustrasi SVG buatan sendiri. Jadi tidak bergantung pada foto stok berhak cipta.</p></details>
+</section>
+</main>
+
+<footer>
+  <div class="footer-brand"><a class="brand" href="#"><span class="brand-mark">D</span><span><b>DARA</b><small>KIDS WEAR</small></span></a><p>Little style, big dreams ♡</p></div>
+  <div><h4>Explore</h4><a href="#shop">Shop</a><a href="#new">New In</a><a href="#about">About</a></div>
+  <div><h4>Help</h4><a href="#faq">FAQ</a><a href="#" id="orderFooter">Order</a><a href="#">Size Guide</a></div>
+  <div><h4>Follow us</h4><a href="https://instagram.com/" target="_blank">@darakidswear</a><a href="#">TikTok</a><a href="mailto:hello@darakidswear.com">hello@darakidswear.com</a></div>
+  <div class="copyright">© 2026 DARA KIDS WEAR • Demo storefront • Built with ♡</div>
+</footer>
+
+<div class="modal-backdrop" id="modalBackdrop">
+  <div class="modal" role="dialog" aria-modal="true">
+    <button class="close" id="closeModal">×</button>
+    <div class="modal-img"><img id="modalImg" src="" alt=""></div>
+    <div class="modal-content">
+      <span class="eyebrow">ORDER NOW</span><h2 id="modalTitle">Product</h2><p id="modalPrice" class="price"></p>
+      <label>Size<select id="sizeSelect"><option>2–3Y</option><option>4–5Y</option><option>6–7Y</option><option>8–10Y</option></select></label>
+      <label>Color<select id="colorSelect"><option>Butter</option><option>Cream</option><option>Pastel Pink</option><option>Soft Blue</option></select></label>
+      <label>Qty<input id="qtySelect" type="number" min="1" max="10" value="1"></label>
+      <button class="btn primary full" id="waOrder">Order via WhatsApp ✦</button>
+      <button class="btn secondary full" id="addCart">Add to Bag</button>
+      <small class="muted">Nomor WhatsApp demo: +62 812-3456-7890. Ganti nomor ini di <code>script.js</code>.</small>
+    </div>
+  </div>
+</div>
+
+<div class="cart-drawer" id="cartDrawer">
+  <div class="drawer-head"><h3>Your Bag</h3><button id="closeCart">×</button></div>
+  <div id="cartItems" class="cart-items"></div>
+  <div class="drawer-foot"><div><span>Total</span><strong id="cartTotal">Rp0</strong></div><button class="btn primary full" id="checkoutCart">Checkout via WhatsApp</button></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

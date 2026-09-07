@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#F4E2A8"/>
+      <circle cx="70" cy="70" r="24" fill="#F8BFC7" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#F8BFC7" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Soft Polo Tee</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#F4E2A8" d="M145 90 L185 65 L205 100 L235 100 L255 65 L295 90 L275 185 L250 175 L250 275 L190 275 L190 175 L165 185 Z"/>
+          <path fill="#FFF8EA" d="M205 70 L220 105 L235 70 L230 120 L210 120 Z"/>
+          <circle cx="218" cy="132" r="4" fill="#5A4937"/><circle cx="218" cy="148" r="4" fill="#5A4937"/>
+        </g>
+    </svg>

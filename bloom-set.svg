@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#F6C9D4"/>
+      <circle cx="70" cy="70" r="24" fill="#D8E8C8" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#D8E8C8" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Bloom Weekend Set</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#F6C9D4" d="M140 105 L185 72 L255 72 L300 105 L275 175 L250 160 L250 275 L190 275 L190 160 L165 175 Z"/>
+          <path fill="#D8E8C8" d="M175 165 L265 165 L280 275 L160 275 Z"/>
+          <path fill="#FFF8E9" d="M205 72 L220 98 L235 72 L230 125 L210 125 Z"/>
+          <circle cx="220" cy="145" r="8" fill="#F7D978"/>
+        </g>
+    </svg>

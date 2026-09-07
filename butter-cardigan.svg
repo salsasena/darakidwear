@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#F7D978"/>
+      <circle cx="70" cy="70" r="24" fill="#FFF8E8" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#FFF8E8" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Korean Butter Cardigan</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#F7D978" d="M120 105 L170 78 L210 112 L250 78 L300 105 L282 175 L255 160 L245 285 L175 285 L165 160 L138 175 Z"/>
+          <path fill="#FFFDF5" d="M198 110 L220 135 L242 110 L225 250 L215 270 L205 250 Z"/>
+          <circle cx="218" cy="155" r="5" fill="#5A4937"/><circle cx="218" cy="185" r="5" fill="#5A4937"/><circle cx="218" cy="215" r="5" fill="#5A4937"/>
+        </g>
+    </svg>

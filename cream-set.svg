@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 440">
+      <rect width="440" height="440" rx="40" fill="#E8D7B8"/>
+      <circle cx="70" cy="70" r="24" fill="#FFF9EF" opacity=".55"/>
+      <circle cx="370" cy="105" r="14" fill="#FFF" opacity=".8"/>
+      <path d="M58 345 Q110 315 160 340 T270 340 T382 330" fill="none" stroke="#FFF9EF" stroke-width="12" stroke-linecap="round" opacity=".55"/>
+      <text x="220" y="382" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#5A4937">Creamy Knit Set</text>
+      
+        <g stroke="#5A4937" stroke-width="4" stroke-linejoin="round">
+          <path fill="#E8D7B8" d="M145 95 L190 70 L250 70 L295 95 L275 170 L250 155 L250 275 L190 275 L190 155 L165 170 Z"/>
+          <path fill="#FFFDF7" d="M190 70 Q220 105 250 70 L240 120 Q220 140 200 120 Z"/>
+          <path fill="#F7D978" d="M190 185 H250 V275 H190 Z"/>
+          <path fill="none" stroke="#B99E76" d="M200 200 H240 M200 220 H240 M200 240 H240"/>
+        </g>
+    </svg>
